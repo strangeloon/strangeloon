@@ -15,7 +15,7 @@
 - 💼 I'm open to collaborating on interesting projects and open-source contributions.
 - 🤔 I’m looking for help with innovative ideas and challenging problems.
 - 💬 Ask me about programming, technology, or anything else that piques your curiosity.
-- 📫 How to reach me: [Your Email](mailto:youremail@example.com) or [LinkedIn](your-linkedin-profile)
+- 📫 How to reach me: [Your Email](mailto:surjomitra2002@gmail.com) or [LinkedIn](https://www.linkedin.com/in/surjo-mitra-029208249/)
 - ⚡ Fun fact: I have a knack for solving puzzles and love playing chess.
 
 ## 🛠️ Technologies & Tools
@@ -39,7 +39,7 @@
 
 ## 📫 Connect with Me
 <p align="center">
-  <a href="https://linkedin.com/in/your-linkedin-profile"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
+  <a href="https://www.linkedin.com/in/surjo-mitra-029208249/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
   <a href="https://twitter.com/your-twitter-profile"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" alt="Twitter Badge"/></a>
   <a href="https://your-website"><img src="https://img.shields.io/badge/Website-4285F4?style=flat-square&logo=google-chrome&logoColor=white" alt="Website Badge"/></a>
 </p>
